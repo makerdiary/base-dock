@@ -137,7 +137,7 @@
         }, 
         {
             "location": "/tutorials/", 
-            "text": "Base Dock Tutorials\n\n\nOverview\n\n\nThese step-by-step tutorials will details how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.\n\n\nRequesting a tutorial\n\n\nIf you don't see what you're looking for, you can request a tutoial. We'd love to see your feedback!\n\n\n Request a tutoial", 
+            "text": "Base Dock Tutorials\n\n\nOverview\n\n\nThese step-by-step tutorials will detail how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.\n\n\nRequesting a tutorial\n\n\nIf you don't see what you're looking for, you can request a tutoial. We'd love to see your feedback!\n\n\n Request a tutoial", 
             "title": "Overview"
         }, 
         {
@@ -147,7 +147,7 @@
         }, 
         {
             "location": "/tutorials/#overview", 
-            "text": "These step-by-step tutorials will details how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.", 
+            "text": "These step-by-step tutorials will detail how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.", 
             "title": "Overview"
         }, 
         {
