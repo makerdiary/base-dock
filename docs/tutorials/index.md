@@ -2,7 +2,7 @@
 
 ## Overview
 
-These step-by-step tutorials will details how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.
+These step-by-step tutorials will detail how to use more features of Base Dock with nRF52832-MDK, nRF52840-MDK and hundreds of Grove modules.
 
 
 ## Requesting a tutorial
