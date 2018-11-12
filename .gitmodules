@@ -1,0 +1,3 @@
+[submodule "external/openthread"]
+	path = external/openthread
+	url = https://github.com/openthread/openthread.git
