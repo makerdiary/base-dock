@@ -1,0 +1,16 @@
+.DS_Store/*
+
+nrf_sdks/*
+!nrf_sdks/README.md
+
+_build/
+build/
+
+mkdocs-material/*
+material/*
+site
+
+.idea
+.build
+.mbed
+projectfiles
