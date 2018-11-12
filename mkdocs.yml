@@ -1,0 +1,108 @@
+
+# Project information
+site_name: Base Dock
+site_description: Grove compatible dock for building rapidly IoT applications with nRF52832-MDK or nRF52840-MDK
+site_author: makerdiary
+site_url: https://wiki.makerdiary.com/base-dock/
+
+# Repository
+repo_name: base-dock
+repo_url: https://github.com/makerdiary/base-dock
+edit_uri: "https://github.com/makerdiary/base-dock/docs"
+
+# Copyright
+copyright: 'Copyright &copy; 2018 <a href="https://makerdiary.com">makerdiary</a>'
+
+# Configuration
+theme:
+  name: null
+  custom_dir: 'material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: marsala
+    accent: marsala
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: 'images/favicon.png'
+  logo: 'images/logo.svg'
+
+# Customization
+extra:
+  social:
+    - type: comments
+      link: https://community.makerdiary.com
+    - type: globe
+      link: https://makerdiary.com
+    - type: github-alt
+      link: https://github.com/makerdiary
+    - type: twitter
+      link: https://twitter.com/makerdiary
+    - type: facebook
+      link: https://www.facebook.com/makerdiary
+#  disqus: 'makerdiary'
+#  discourse: 'community.makerdiary.com'
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+pages:
+  - Introduction: index.md
+  - Getting Started: getting-started/index.md
+  - How to Buy: how-to-buy.md
+  - Contributing: CONTRIBUTING.md
+  - License: LICENSE.md
+  - Tutorials:
+    - Overview: tutorials/index.md
+    - Battery Level: tutorials/battery-level.md
+    - Grove - Button: tutorials/grove-button.md
+    - Grove - Light Sensor: tutorials/grove-light_sensor.md
+    - Grove - Rotary Angle Sensor: tutorials/grove-rotary_angle_sensor.md
+    - Grove - Sound Sensor: tutorials/grove-sound_sensor.md
+    - Grove - Temperature Sensor: tutorials/grove-temperature_sensor.md
+    - Grove - Touch Sensor: tutorials/grove-touch_sensor.md
+    - Launch App using NFC: tutorials/launch-app-using-nfc.md
+    - Open a URL using NFC: tutorials/open-url-using-nfc.md
+
+# Google Analytics
+google_analytics:
+  - 'UA-54344624-2'
+  - 'auto'
