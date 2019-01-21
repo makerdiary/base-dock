@@ -65,13 +65,13 @@ Base Dock is available on the following channels (click to go directly to the pr
 
 [![makerdiary store](docs/images/makerdiary-store-logo.png)](https://store.makerdiary.com/collections/frontpage/products/base-dock)
 
-[![SeeedStudio](docs/images/seeed_logo_2018_horizontal.png)](https://www.seeedstudio.com/)
+[![SeeedStudio](docs/images/seeed_logo_2018_horizontal.png)](https://www.seeedstudio.com/catalog/product/view/id/2856/s/nRF52840-MDK-Base-Dock-p-2856/)
 
 [![Tindie](docs/images/tindie-logo.png)](https://www.tindie.com/products/Zelin/base-dock-grove-compatible/)
 
 ## MIT License
 
-Copyright (c) 2018 [makerdiary](https://makerdiary.com)
+Copyright (c) 2019 [makerdiary](https://makerdiary.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

@@ -6,7 +6,7 @@ Base Dock is available on the following channels (click to go directly to the pr
 
 [![makerdiary store](images/makerdiary-store-logo.png)](https://store.makerdiary.com/collections/frontpage/products/base-dock)
 
-[![SeeedStudio](images/seeed_logo_2018_horizontal.png)](https://www.seeedstudio.com/)
+[![SeeedStudio](images/seeed_logo_2018_horizontal.png)](https://www.seeedstudio.com/catalog/product/view/id/2856/s/nRF52840-MDK-Base-Dock-p-2856/)
 
 [![Tindie](images/tindie-logo.png)](https://www.tindie.com/products/Zelin/base-dock-grove-compatible/)
 
