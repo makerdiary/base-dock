@@ -69,6 +69,9 @@ Base Dock is available on the following channels (click to go directly to the pr
 
 [![Tindie](docs/images/tindie-logo.png)](https://www.tindie.com/products/Zelin/base-dock-grove-compatible/)
 
+[![Taobao](docs/images/taobao-logo.png)](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18605444714.14.39be796cJVdvk7&id=587590520696)
+
+
 ## MIT License
 
 Copyright (c) 2019 [makerdiary](https://makerdiary.com)
